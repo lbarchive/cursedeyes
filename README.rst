@@ -4,6 +4,8 @@ cursedeyes
 
 *Like Xeyes, but for terminal.*
 
+.. figure:: cursedeyes.png
+
 
 .. contents:: **Contents**
    :local:
